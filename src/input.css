@@ -9,3 +9,11 @@
       font-family: Inter, system-ui, sans-serif;
     }
   }
+
+body {
+  @apply bg-background text-secondary flex justify-center w-screen md:h-screen
+}
+
+main {
+  @apply w-[360px] md:w-[480px]
+}
