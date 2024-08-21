@@ -1,10 +1,11 @@
 [
-    {
-        "date" : "20-08-2024",
-        "content": "Testing dev logs 1"
-    },
+    
     {
         "date" : "21-08-2024",
-        "content": "Testing dev logs 2"
+        "content": "Worked on adding the dev logs page, trying to keep the implementation as simple as possible. Might update this once or twice per week to avoid spamming my github commit history. On a (not so unrelated) side note, trying to make something in pure HTML makes you appreciate components more, because adding the dev log icon everywhere instead of just one component was honestly boring. Not good."
+    },
+    {
+        "date" : "20-08-2024",
+        "content": "Discovered how fast fourier transforms work and how frequencies translate to musical notes. Pretty crazy stuff."
     }
 ]

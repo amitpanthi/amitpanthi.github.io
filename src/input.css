@@ -17,3 +17,11 @@ body {
 main {
   @apply w-[360px] md:w-[480px]
 }
+
+.dev-log-item {
+  @apply border-t-[1px] border-gray-300 py-[12px]
+}
+
+.dev-log-header {
+  @apply text-lg font-bold
+}
